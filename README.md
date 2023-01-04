@@ -48,4 +48,4 @@ Merge Sort işleminde tüm itemler tekil halde kalana kadar ayrıştırılır ve
 
 # Big O Notation
 
-O(n)
+O(n log n)
