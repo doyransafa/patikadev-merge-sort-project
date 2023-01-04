@@ -45,3 +45,7 @@ Merge Sort işleminde tüm itemler tekil halde kalana kadar ayrıştırılır ve
 > [8,11,16,21] - [12,22]
 
 > [8,11,12,16,21,22]
+
+# Big O Notation
+
+O(n)
